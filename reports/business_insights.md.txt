@@ -1,0 +1,69 @@
+# Retail Sales Analytics — Business Insights & Recommendations
+
+## Executive Summary
+
+The analysis evaluated retail sales performance from 2014 through 2017 across products, customers, geographic markets, discount levels, and shipping methods.
+
+The business generated approximately $2.30 million in revenue and $286.4 thousand in profit across 5,009 orders and 793 customers, resulting in an overall profit margin of 12.47% and an average order value of $458.61.
+
+The analysis identified meaningful differences in profitability across regions, product categories, discount levels, and individual products. Revenue and profit generally increased over the analysis period, but high discount levels and certain products were associated with substantial profitability deterioration.
+
+The findings suggest opportunities to improve margins through more disciplined discounting, product-level profitability management, and greater focus on high-performing markets and product segments.
+
+## Key Business Findings
+
+### 1. Overall Business Performance
+- Total revenue reached approximately $2.30 million.
+- Total profit reached approximately $286.4 thousand.
+- The business processed 5,009 unique orders from 793 customers.
+- Average order value was approximately $458.61.
+- Overall profit margin was 12.47%.
+
+### 2. Regional Performance
+- The West generated the highest revenue and profit among the four regions.
+- The East was the second-largest region by both revenue and profit.
+- The Central region generated substantial revenue but showed weaker profitability relative to its sales volume.
+- The South generated the lowest overall revenue.
+
+### 3. Product Performance
+- Technology generated the highest category-level revenue and showed strong profitability.
+- Product performance varied substantially within categories and subcategories.
+- Several high-revenue products contributed strongly to overall sales, while a separate group of products generated significant losses.
+- This demonstrates the importance of evaluating products using profitability in addition to revenue.
+
+### 4. Discounting and Profitability
+- Profitability deteriorated substantially as discount levels increased.
+- Several higher discount levels were associated with negative aggregate profit.
+- Profit margins became particularly unfavorable at the highest discount levels.
+- Discount strategy therefore represents a significant opportunity for margin improvement.
+
+### 5. Customer and Geographic Performance
+- The Consumer segment generated the largest share of revenue among customer segments.
+- Corporate represented the second-largest segment, followed by Home Office.
+- California and New York were the strongest states by total profit.
+- Sales activity was geographically distributed across the United States, with particularly strong performance in several major markets.
+
+### 6. Sales and Profit Trends
+- Monthly performance was volatile, but revenue and profit generally strengthened over the 2014–2017 period.
+- Later periods contained several of the strongest monthly revenue and profit results.
+- Standard Class represented the largest shipping mode by revenue and profit.
+
+## Business Recommendations
+
+### 1. Tighten Discount Strategy
+Management should review high-discount transactions and establish profitability-based discount thresholds. Discounts should be targeted toward situations where increased volume or customer value is expected to offset margin erosion.
+
+### 2. Review Loss-Making Products
+Products generating persistent losses should be evaluated individually. Management should determine whether losses are caused by excessive discounting, pricing, shipping costs, supplier costs, or other factors before deciding whether to reprice, reposition, or discontinue them.
+
+### 3. Prioritize High-Performing Markets
+Strong markets such as the West region and high-profit states should receive continued commercial attention. Successful product and customer strategies in these markets may also provide opportunities for replication elsewhere.
+
+### 4. Improve Central Region Profitability
+Because the Central region generates meaningful revenue but comparatively weaker profitability, management should investigate its product mix, discount behavior, and customer composition to identify sources of margin pressure.
+
+### 5. Manage Products Based on Revenue and Profit
+Product decisions should not rely on sales volume alone. Revenue, absolute profit, and profit margin should be evaluated together when determining product priorities.
+
+### 6. Continue Monitoring Growth and Seasonality
+Monthly sales and profit trends should be monitored to support inventory planning, promotional timing, and resource allocation during periods of stronger or weaker demand.
